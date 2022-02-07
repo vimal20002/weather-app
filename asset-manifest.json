@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react_upload/static/css/main.61486b94.css",
+    "main.js": "/react_upload/static/js/main.426db104.js",
+    "static/js/787.13d76ca7.chunk.js": "/react_upload/static/js/787.13d76ca7.chunk.js",
+    "static/media/loader2.gif": "/react_upload/static/media/loader2.e048af88314c5489e0a9.gif",
+    "static/media/winter.jpeg": "/react_upload/static/media/winter.f5f28e5c2de938bc78fe.jpeg",
+    "static/media/winter1.webp": "/react_upload/static/media/winter1.8d95d1af7d8980758904.webp",
+    "static/media/insta.png": "/react_upload/static/media/insta.4fae33bb3996b4426ed1.png",
+    "static/media/visiblity.png": "/react_upload/static/media/visiblity.618b9fd2a51022d7a5cf.png",
+    "static/media/em.png": "/react_upload/static/media/em.68e83fd16f75be7d5642.png",
+    "static/media/Sunny.png": "/react_upload/static/media/Sunny.6449605c7c082afd3df0.png",
+    "static/media/Stromy.png": "/react_upload/static/media/Stromy.aa7acc9344fdb608c7d7.png",
+    "static/media/Rainy.png": "/react_upload/static/media/Rainy.7f698158daed46a87d60.png",
+    "static/media/Cloudy.png": "/react_upload/static/media/Cloudy.3c0ccca64232a43457c3.png",
+    "static/media/Windy.png": "/react_upload/static/media/Windy.8f19822d1f277ee393f0.png",
+    "static/media/linkd.png": "/react_upload/static/media/linkd.08e01c586ddf007526b6.png",
+    "static/media/logo.png": "/react_upload/static/media/logo.a9ac98ae9eb70f886380.png",
+    "static/media/Fog.png": "/react_upload/static/media/Fog.12db2e1614984b790f6c.png",
+    "static/media/sunrise.png": "/react_upload/static/media/sunrise.d43dbc22ae6768f6ffc4.png",
+    "static/media/sunset.png": "/react_upload/static/media/sunset.59c88094f83961ebb851.png",
+    "static/media/pressure.png": "/react_upload/static/media/pressure.07b737d3990dc1a7f789.png",
+    "index.html": "/react_upload/index.html",
+    "main.61486b94.css.map": "/react_upload/static/css/main.61486b94.css.map",
+    "main.426db104.js.map": "/react_upload/static/js/main.426db104.js.map",
+    "787.13d76ca7.chunk.js.map": "/react_upload/static/js/787.13d76ca7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61486b94.css",
+    "static/js/main.426db104.js"
+  ]
+}
